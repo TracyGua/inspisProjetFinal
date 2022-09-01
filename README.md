@@ -1,7 +1,10 @@
 # Inspirations Projet Final
 ##Projet incluant lumière et 'reflets' de l'interacteur
+<br/>
 ##https://www.dezeen.com/2019/04/10/resonance-samsung-electronics-milan-design-week/amp/
+<br/>
 ##https://www.archilovers.com/projects/168973/magic-carpets-2014-castel-del-monte.html
+<br/>
 ##https://www.modernamuseet.se/stockholm/en/event/forelasning-sapbubblans-himmelska-ljus/
 ![image](https://user-images.githubusercontent.com/90851849/187992937-2bc3334f-f691-423c-ac26-dbd55acf76fb.png)
 ![image](https://user-images.githubusercontent.com/90851849/187993050-34d8b787-ab31-4b33-abdb-62b743126943.png)
